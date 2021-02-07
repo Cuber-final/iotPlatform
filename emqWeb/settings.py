@@ -81,9 +81,9 @@ WSGI_APPLICATION = 'emqWeb.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'iotPlat',
-        'USER': 'Cuberan',
-        'PASSWORD': '12345678',
+        'NAME': 'databaseName',
+        'USER': 'Username',
+        'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '3306',
     }
