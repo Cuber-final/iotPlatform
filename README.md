@@ -33,7 +33,7 @@
   * SQLAlchemy           1.3.22  ORM框架，对象关系映射
 * 数据库：
   
-  * MySQL             
+  * MySQL             8.0.19
 * 中间件：
   
   * emqx-broker  消息转发服务器          
